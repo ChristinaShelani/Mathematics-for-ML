@@ -1,2 +1,2 @@
 # Mathematics-for-ML
-Coursera Specialisation of Imperial College - London
+Coursera Specialization of Imperial College - London
